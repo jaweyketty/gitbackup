@@ -3,4 +3,4 @@ gitbackup
 
 gitbackup
 
-git file backup .
+git install file and client program for windowns backup
